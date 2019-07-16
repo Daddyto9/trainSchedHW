@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # trainSchedHW
 Homework project
 
