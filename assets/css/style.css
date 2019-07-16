@@ -1,0 +1,43 @@
+body {
+    background-image: url(../images/Download\ Full\ Size\ Image\ Main\ Gallery\ Page.jpg)
+}
+
+.panel-primary>.panel-heading {
+    background-color: #f8a23f;
+    border: gold solid 10px;
+}
+
+h1 {
+    background-image: linear-gradient(to right, yellow, #f8a23f, yellow);
+    padding: 20px;
+    color: white !important;
+    border: #f8a23f 10px solid;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    border: 10px gold solid;
+    background-color: rgba(203, 203, 203, 0.2)
+}
+
+.panel-title {
+    border: none;
+}
+
+h3 {
+    background-image: linear-gradient(to right, yellow, #f8a23f, yellow);
+    padding: 20px;
+    color: white !important;
+    border: #f8a23f 10px solid;
+    text-align: center;
+}
+
+.panel-heading {
+    background-color: black
+}
+
+.submitButton {
+    background-color: #f8a23f;
+    border: 4px solid gold;
+    color: white;
+}
